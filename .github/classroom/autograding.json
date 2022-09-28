@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "testOutput",
+      "setup": "",
+      "run": "Show Output",
+      "input": "",
+      "output": "Welcome to CPP output\r\ntest Sept 28",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
